@@ -10,3 +10,6 @@ Todos os direitos reservados.
 Curitiba, 02 de março de 2026.
 
 Mr001
+
+
+Credit: mzzvm
