@@ -1,15 +1,33 @@
-# Declaração de Direitos Autorais
-Eu, Mr001, declaro para os devidos fins que o script denominado “Quizizz” é de minha autoria, sendo protegido pela Lei de Direitos Autorais (Lei nº 9.610/98).
+# Nikolas Quizizz
 
-Fica expressamente proibida a cópia, reprodução, modificação, distribuição ou qualquer forma de utilização total ou parcial do referido script sem autorização prévia e por escrito do autor.
+Ferramenta desenvolvida para uso na plataforma Wayground (Quizizz), com foco em melhorar a experiência do usuário durante atividades.
 
-O uso indevido da obra poderá resultar na adoção das medidas legais cabíveis.
+## 📌 Sobre
 
-Todos os direitos reservados.
+O Nikolas Quizizz é um bookmarklet que executa scripts diretamente na interface da plataforma, oferecendo funcionalidades adicionais sem necessidade de instalação.
 
-Curitiba, 02 de março de 2026.
+## ⚙️ Como usar
 
-Mr001
+1. Adicione o bookmarklet à barra de favoritos
+2. Acesse a plataforma Wayground (Quizizz)
+3. Clique no bookmarklet
+4. As funcionalidades serão aplicadas na página
 
+## 🚀 Funcionalidades
 
-Credit: mzzvm
+* Otimização de interação com quizzes
+* Automação de processos
+* Melhorias na interface
+
+## 🧩 Tecnologias
+
+* JavaScript
+* Execução via bookmarklet
+
+## ⚠️ Aviso
+
+Não afiliado à plataforma Wayground/Quizizz.
+
+## 📄 Licença
+
+Uso pessoal
