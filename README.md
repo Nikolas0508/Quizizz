@@ -30,4 +30,4 @@ Não afiliado à plataforma Wayground/Quizizz.
 
 ## 📄 Licença
 
-Uso pessoal
+NikolasP
